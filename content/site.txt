@@ -1,0 +1,13 @@
+Title: Kirby Starterkit
+
+----
+
+Author: William van der Burg
+
+----
+
+Description: Website Willburg Projecten BV.
+
+----
+
+Copyright: © 2017–(date: Year) (link: http://getkirby.com text: The Kirby Team)

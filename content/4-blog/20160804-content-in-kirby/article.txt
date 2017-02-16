@@ -1,0 +1,25 @@
+Title: Beurzen:
+
+----
+
+Date: 2016-08-04
+
+----
+
+Coverimage: beurs.jpg
+
+----
+
+Text: 
+
+**IPM-Essen **
+
+**THE WORLD’S LEADING TRADE FAIR FOR HORTICULTURE**
+
+The international trade fair for plants (IPM ESSEN) is the world’s leading trade fair for horticulture.
+It is the only specialist trade fair of its kind to cover the entire value chain of plants, including production, technology, floristry, garden features, and the point of sale. No other plant fair offers trade visitors such a comprehensive market overview and so many multifaceted novelties. 
+But if you don’t use the Panel, you also don’t need to setup blueprints at all. That’s Kirby’s advantage: The content files can be edited directly if you want to.
+
+## Kirbytext
+
+*You will find us in hall 3, on booth number 3E20. We appreciate your visit very much.*

@@ -1,0 +1,22 @@
+Intro: 
+
+---
+Willburg Projecten B.V. is een groeiende onderneming die werkzaam is in de tuinbouwsector. Wij zijn gespecialiseerd in het ontwerpen en fabriceren van machines voor alle tuinbouwkwekerijen. Denk daarbij aan intern transport, beelddragers aan potten, pottenwassen, afstrooimachines en oppotmachines.
+
+Door onze platte bedrijfsstructuur kunnen wij eenvoudig inspringen op de wens
+en en behoeften van onze afnemers. Willburg Projecten B.V. is een onderdeel van Willburg Machinebouw B.V.
+
+WBM produceert alle machines voor Willburg Projecten B.V.
+
+----
+
+Text: 
+
+##Laatste projects##
+---
+
+Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem. Nulla consequat massa quis enim. Donec pede justo, fringilla vel, aliquet nec, vulputate eget, arcu. In enim justo, rhoncus ut, imperdiet a, venenatis vitae, justo.
+
+----
+
+Title: home

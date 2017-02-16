@@ -1,0 +1,32 @@
+header.custom-header {
+    background: #ffffff;
+    border-bottom: 1px solid #aaa;
+}
+.mdl-layout__header-row span.mdl-layout-title {
+    color: #094685;
+    text-transform: uppercase;
+}
+.custom-header .material-icons {
+    margin-top: 12px;
+    color: #094685;
+}
+.custom-header a.mdl-navigation__link {
+    color: #094685;
+    font-weight: 700;
+    font-size: 14px;
+}
+.custom-header a.mdl-navigation__link:hover {
+    color: #094685;
+}
+.mdl-layout__drawer span.mdl-layout-title {
+    background: #ffffff;
+    color: #094685;
+}
+.mdl-layout__drawer a.mdl-navigation__link {
+    color: #094685;
+    font-weight: 700;
+    font-size: 14px;
+}
+.mdl-layout__drawer a.mdl-navigation__link:hover {
+    color: #ffffff;
+}
