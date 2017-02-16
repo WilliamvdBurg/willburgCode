@@ -1,4 +1,4 @@
-<?php
+git remote add origin git@github.com:WilliamvdBurg/Willburg_Projecten.git<?php
 
 define('DS', DIRECTORY_SEPARATOR);
 
